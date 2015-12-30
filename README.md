@@ -10,7 +10,7 @@ A YouTuber, who I can't seem to find anymore, whom I obtained the interface from
 
 
 **Instructions:**
-Hook up your relay using this diagram:
+Hook up your [relay](http://www.amazon.com/SunFounder-Channel-Shield-Arduino-Raspberry/dp/B00E0NTPP4/ref=sr_1_1?s=electronics&ie=UTF8&qid=1451466123&sr=1-1&keywords=sunfounder+2+channel+5v+relay) using this diagram:
 ```
 RPi Pin: | Relay Pin:
 5 (GPIO) |  IN1 / IN2
